@@ -2,6 +2,7 @@ sudo apt update
 sudo add-apt-repository ppa:mikhailnov/pulseeffects -y
 sudo apt-get -y install pulseeffects
 sudo apt-get -y install flashplugin-installer
+sudo apt-get -y install h264enc
 sudo apt-get -y install kdenlive
 sudo apt-get -y install gparted
 sudo apt-get -y  install hydrogen
