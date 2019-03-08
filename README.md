@@ -1,0 +1,1 @@
+# linux_ilk_kurulum_uygulamalar-.sh
