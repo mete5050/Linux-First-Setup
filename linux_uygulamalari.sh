@@ -18,6 +18,7 @@ sudo apt-get -y install chromium
 sudo apt-get -y install opera
 sudo apt-get -y install discord
 sudo apt-get -y install steam
+sudo apt -y install neofetch
 sudo add-apt-repository multiverse
 sudo apt update
 sudo apt-get -y install steam
