@@ -24,4 +24,4 @@ sudo apt update
 sudo apt-get -y install steam
 sudo pip install opencv-python
 sudo pip install autogui
-
+//DRI_PRIME=1 %command%
